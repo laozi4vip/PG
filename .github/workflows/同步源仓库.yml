@@ -16,7 +16,7 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.name 'laozi'
-         # git config --global user.email 'sync@github.local'  # 建议加上 email，避免某些 Git 操作警告
+          git config --global user.email 'sync@github.local'  # 建议加上 email，避免某些 Git 操作警告
 
       - name: Add upstream and fetch
         run: |
