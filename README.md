@@ -2,9 +2,7 @@
 
 ## 同步更新在线接口
 ```
-http://www.fish2018.ip-ddns.com/p/jsm.json
-http://www2.fish2018.ip-ddns.com/p/jsm.json
-http://www3.fish2018.ip-ddns.com/p/jsm.json
+https://www.252035.xyz/p/jsm.json
 ```
 - 选择主页可以查看当前PG包版本  
 - 在线接口已经默认集成了tgsearch的在线服务器，无需任何tg配置
@@ -12,25 +10,21 @@ http://www3.fish2018.ip-ddns.com/p/jsm.json
 备用接口
 ```
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
-```
-备用接口2
-```
-http://www.fish2018.us.kg/p/jsm.json
+http://www.fish2018.ip-ddns.com/p/jsm.json
+http://www3.fish2018.ip-ddns.com/p/jsm.json
 ```
 
+
 ## TG影视资源频道
-[tgsearchers](https://t.me/s/tgsearchers) 实时更新最新影视资源(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
+[tgsearchers3](https://t.me/s/tgsearchers3) 实时更新最新影视资源并自动清理失效链接(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
 
 ## tgsearch服务器
 ```
+https://tg.252035.xyz
 http://tg.fish2018.ip-ddns.com
-http://tg2.fish2018.ip-ddns.com
 http://tg3.fish2018.ip-ddns.com
 ```
-备用服务器
-```
-http://tg.fish2018.us.kg
-```
+
 
 ## 相关接口
 [真心接口](https://github.com/fish2018/ZX) 参考这个项目
@@ -41,7 +35,7 @@ http://tg.fish2018.us.kg
 
 [TG本地搜索图文教程](https://github.com/fish2018/lib/blob/main/教程/关于TG本地搜索图文教程-PG.pdf)
 
-在线获取TG session：https://tg.uu8.pro/ (@DH 分享)  
+在线获取TG session：https://tgs.252035.xyz/
 
 需要免费代理节点，可以使用另一个项目[ClashForge](https://github.com/fish2018/ClashForge)  
 
@@ -49,48 +43,42 @@ http://tg.fish2018.us.kg
 
 
 ## PG包下载地址
-PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)  
+PG包[README.txt](https://www.252035.xyz/p/README.txt)  
 ```text
-对不起，我是顶级视听控，阿里不限速网盘资源全秒播
+突破极限，超你所想。阿里不限速网盘资源全秒播
 讨论组:  https://t.me/pandagroovechat
 发布频道: https://t.me/PandaGroovePG                                                                                   
 内置订阅推荐：https://pgicloud.github.io
 内置tgsearch下载链接：https://t.me/PandaGroovePG/1202
 本频道只有上述一个讨论组，其他任何讨论组或Q群微群均与本频道无关
 
-【 阿里,夸克,UC,123使用本zip包不限速，阿里原画不需要svip也不用三方权益包。可能是地球上唯一一个可以流畅在线播放ISO原盘的zip（注：使用外部播放器播放原盘ISO需要在任务列表中把影视锁定不被杀掉后台才能稳定播放）。注意：不支持仅使用jar，必须zip完整解压使用。网盘原画仅支持原版的影视、OK影视。對本zip内的核心jar的魔改或縫合都會導致網盤原畫及直播不可播放。多个播放器或多次外挂本zip情况下，需要只保留一个播放器或1个外挂运行，其他的要主动杀掉，否则可能出现网盘播放异常。】
+【 阿里,123使用本zip包不限速，阿里原画不需要svip也不用三方权益包。可能是地球上唯一一个可以流畅在线播放ISO原盘的zip（注：使用外部播放器播放原盘ISO需要在任务列表中把影视锁定不被杀掉后台才能稳定播放）。注意：不支持仅使用jar，必须zip完整解压使用。网盘原画仅支持原版的影视、OK影视。對本zip内的核心jar的魔改或縫合都會導致網盤原畫及直播不可播放。多个播放器或多次外挂本zip情况下，需要只保留一个播放器或1个外挂运行，其他的要主动杀掉，否则可能出现网盘播放异常。】
 
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.增加天逸搜和雷鲸。
-2.修复115
-3.修复带有域名配置功能的CSP的效率低下问题。
-4.修复Panta蜡笔及所有自定义域名csp
-5.修复天逸搜带密码分享无法使用的问题。
-6.修复TG豆瓣带有分享密码的链接无法播放问题。
-7.大幅优化TG搜索结果处理逻辑，大幅提高播放成功率
+1.增加网盘缓存自动备份到webdavsim，在网盘设置中设置备份地址，可以多端实时同步网盘token/cookie
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250317-1951.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250317-1951.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250317-1951.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250317-1951.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250824-1205.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250824-1205.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250824-1205.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250824-1205.zip
 ```
 
 ## tgsearch包下载地址
-[README.txt](http://www.fish2018.us.kg/README.txt)    
+[README.txt](https://www.252035.xyz/README.txt)    
 [教程](https://github.com/fish2018/lib) (@奥利给 @jack)  
 [安装脚本](https://github.com/DDS-Derek/alist-tvbox-script)  (@DDS-Derek)  
 
