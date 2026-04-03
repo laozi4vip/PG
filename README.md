@@ -58,25 +58,26 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 2. 优化观影稳定性
 3. 优化低码稳定性
 4. 尝试支持新版影视内置播放ISO
+5. 彻底重构了低码逻辑，大幅度提高稳定性。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20260402-1157.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20260402-1157.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20260402-1157.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1157.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20260402-1551.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20260402-1551.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20260402-1551.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260402-1551.zip
 ```
 
 ## tgsearch包下载地址
